@@ -17,7 +17,7 @@ variables. It is NetBSD utility ported to sparc-linux.
 
 %description -l pl
 Polecenie audioctl wy¶wietla i ustawia ró¿ne parametry dotycz±ce
-systemowego sterownika d¼wiêku. Jest to port narzêdza z NetBSD na
+systemowego sterownika d¼wiêku. Jest to port narzêdzia z NetBSD na
 architekturê sparc-linux.
 
 %prep
