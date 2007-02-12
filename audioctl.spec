@@ -1,5 +1,5 @@
 Summary:	Utility to control sparc audio device
-Summary(pl.UTF-8):   Narzędzie do sterowania urządzeniem dźwiękowym w sparcach
+Summary(pl.UTF-8):	Narzędzie do sterowania urządzeniem dźwiękowym w sparcach
 Name:		audioctl
 Version:	1.3
 Release:	1
