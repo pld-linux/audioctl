@@ -1,5 +1,5 @@
 Summary:	Utility to control sparc audio device
-Summary(pl):	Narzêdzie do sterowania urz±dzeniem d¼wiêkowym w sparcach
+Summary(pl.UTF-8):   NarzÄ™dzie do sterowania urzÄ…dzeniem dÅºwiÄ™kowym w sparcach
 Name:		audioctl
 Version:	1.3
 Release:	1
@@ -15,10 +15,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 The audioctl command displays or sets various audio system driver
 variables. It is NetBSD utility ported to sparc-linux.
 
-%description -l pl
-Polecenie audioctl wy¶wietla i ustawia ró¿ne parametry dotycz±ce
-systemowego sterownika d¼wiêku. Jest to port narzêdzia z NetBSD na
-architekturê sparc-linux.
+%description -l pl.UTF-8
+Polecenie audioctl wyÅ›wietla i ustawia rÃ³Å¼ne parametry dotyczÄ…ce
+systemowego sterownika dÅºwiÄ™ku. Jest to port narzÄ™dzia z NetBSD na
+architekturÄ™ sparc-linux.
 
 %prep
 %setup -q -n %{name}
